@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HeatSolverMinimalAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e9cc6a5c53ecaa4fd549f9e8b615aed7cbfd54f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+429fc5abbe56142efe59cb50f6b0c2fcecbf720c")]
 [assembly: System.Reflection.AssemblyProductAttribute("HeatSolverMinimalAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HeatSolverMinimalAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
