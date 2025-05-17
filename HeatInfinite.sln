@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeatSolverMinimalAPI", "HeatSolverMinimalAPI\HeatSolverMinimalAPI.csproj", "{AA658853-B5A6-3B0B-E1C4-BFCE114F80DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA658853-B5A6-3B0B-E1C4-BFCE114F80DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA658853-B5A6-3B0B-E1C4-BFCE114F80DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA658853-B5A6-3B0B-E1C4-BFCE114F80DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA658853-B5A6-3B0B-E1C4-BFCE114F80DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {238DD24D-3149-4C7D-8472-2B0B6A6CCC0C}
+	EndGlobalSection
+EndGlobal
