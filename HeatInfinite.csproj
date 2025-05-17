@@ -7,8 +7,5 @@
     <OutputPath>bin/Debug/net8.0/</OutputPath>
       </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.App" />
-  </ItemGroup>
 
 </Project>
