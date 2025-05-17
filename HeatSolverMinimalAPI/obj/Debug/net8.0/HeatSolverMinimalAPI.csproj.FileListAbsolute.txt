@@ -10,7 +10,6 @@
 /workspaces/HeatInfinite/HeatSolverMinimalAPI/obj/Debug/net8.0/HeatSolverMinimalAPI.AssemblyInfo.cs
 /workspaces/HeatInfinite/HeatSolverMinimalAPI/obj/Debug/net8.0/HeatSolverMinimalAPI.csproj.CoreCompileInputs.cache
 /workspaces/HeatInfinite/HeatSolverMinimalAPI/obj/Debug/net8.0/HeatSolverMinimalAPI.MvcApplicationPartsAssemblyInfo.cache
-/workspaces/HeatInfinite/HeatSolverMinimalAPI/obj/Debug/net8.0/HeatSolverMinimalAPI.sourcelink.json
 /workspaces/HeatInfinite/HeatSolverMinimalAPI/obj/Debug/net8.0/staticwebassets.build.json
 /workspaces/HeatInfinite/HeatSolverMinimalAPI/obj/Debug/net8.0/staticwebassets.development.json
 /workspaces/HeatInfinite/HeatSolverMinimalAPI/obj/Debug/net8.0/staticwebassets/msbuild.HeatSolverMinimalAPI.Microsoft.AspNetCore.StaticWebAssets.props
