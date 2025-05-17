@@ -1,6 +1,0 @@
-/workspaces/HeatInfinite/obj/Debug/net8.0/HeatInfinite.GeneratedMSBuildEditorConfig.editorconfig
-/workspaces/HeatInfinite/obj/Debug/net8.0/HeatInfinite.AssemblyInfoInputs.cache
-/workspaces/HeatInfinite/obj/Debug/net8.0/HeatInfinite.AssemblyInfo.cs
-/workspaces/HeatInfinite/obj/Debug/net8.0/HeatInfinite.csproj.CoreCompileInputs.cache
-/workspaces/HeatInfinite/obj/Debug/net8.0/HeatInfinite.MvcApplicationPartsAssemblyInfo.cache
-/workspaces/HeatInfinite/obj/Debug/net8.0/HeatInfinite.sourcelink.json
