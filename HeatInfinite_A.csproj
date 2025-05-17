@@ -5,6 +5,8 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <OutputPath>bin/Debug/net8.0/</OutputPath>
+        <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+            <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute> 
       </PropertyGroup>
 
 

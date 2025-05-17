@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/HeatInfinite/HeatInfinite.csproj",
-      "projectName": "HeatInfinite",
-      "projectPath": "/workspaces/HeatInfinite/HeatInfinite.csproj",
+      "projectUniqueName": "/workspaces/HeatInfinite/HeatInfinite_A.csproj",
+      "projectName": "HeatInfinite_A",
+      "projectPath": "/workspaces/HeatInfinite/HeatInfinite_A.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
       "outputPath": "/workspaces/HeatInfinite/obj/",
       "projectStyle": "PackageReference",
