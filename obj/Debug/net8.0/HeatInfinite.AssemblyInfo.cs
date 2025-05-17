@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HeatInfinite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14d8c6a37ecdc9b4557a0bd477dc9622285a4107")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0204341d73f0f77b58c82834dd014f5fa51cd2ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("HeatInfinite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HeatInfinite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
