@@ -7,7 +7,10 @@ using System.Collections.Generic;
 using System.Text.Json;
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddRazorPages(); // Enable Razor Pages for ViewGrid display
+builder.Services.AddDataProtection()
+    .PersistKeysToFileSystem(new DirectoryInfo("/home/user/dataprotection-keys"))
+    .SetApplicationName("MyApp");
+
 
 var app = builder.Build();
 
