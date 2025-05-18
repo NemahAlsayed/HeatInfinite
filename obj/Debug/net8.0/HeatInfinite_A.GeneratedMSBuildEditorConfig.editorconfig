@@ -17,3 +17,7 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = /workspaces/HeatInfinite
 build_property._RazorSourceGeneratorDebug = 
+
+[/workspaces/HeatInfinite/My_Project/MatrixView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlfUHJvamVjdC9NYXRyaXhWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,15 @@
+@page
+@model MatrixViewModel
+
+<h2>Heat Equation Matrix</h2>
+<table class="table table-striped">
+    @foreach (var row in Model.MatrixData)
+    {
+        <tr>
+            @foreach (var value in row)
+            {
+                <td>@value</td>
+            }
+        </tr>
+    }
+</table>
